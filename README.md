@@ -1,6 +1,6 @@
 # Haven
 
-A peer-connection app built to fight loneliness and mental health. Haven matches verified users on
+A peer-connection app built to fight loneliness. Haven matches verified users on
 shared interests and background, gives them group spaces and safe ways to meet in
 person, and puts a serious safety system at the center of the product rather than
 bolting it on.
@@ -9,7 +9,7 @@ This repo is the interactive front-end prototype: a single self-contained
 `index.html` that runs the whole product as a clickable demo, no backend
 required.
 
-**Live demo:** https://haven-demo.vercel.app
+**Live demo:** https://haven-pitch-demo.vercel.app
 
 > **Scope, stated plainly.** Haven was built as a prototype for the Bada Macha
 > Venture Pitch Competition (3rd place, international finalist). It is a
