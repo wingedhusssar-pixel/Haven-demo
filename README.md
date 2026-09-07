@@ -1,6 +1,6 @@
 # Haven
 
-A peer-connection app built to fight loneliness. Haven matches verified users on
+A peer-connection app built to fight loneliness and mental health. Haven matches verified users on
 shared interests and background, gives them group spaces and safe ways to meet in
 person, and puts a serious safety system at the center of the product rather than
 bolting it on.
